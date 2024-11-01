@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
 
-.red-radio {
-    color: red;
-  }
+input:nth-child(even) {
+  red-ratio: red;
+}
