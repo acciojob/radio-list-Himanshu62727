@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
 
 /* Apply red color to even-positioned radio buttons */
-.red-radio {
+
+label:nth-of-type(even) {
     color: red;
 }
