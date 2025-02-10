@@ -5,3 +5,7 @@
 label:nth-of-type(even) {
     color: red;
 }
+
+.input {
+    margin-right: 5px;
+}
